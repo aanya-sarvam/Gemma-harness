@@ -27,3 +27,8 @@ example_*/
 
 *.pdf
 !reports/*.pdf
+
+# internal-only tooling for preparing datasets from raw/GCS sources; not part of the shared harness
+build_v3.py
+digitise.py
+make_example.py
