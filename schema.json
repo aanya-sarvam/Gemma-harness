@@ -1,0 +1,31 @@
+{
+  "deed_type": "",
+  "district": "",
+  "office": "",
+  "registration_date": "",
+  "presentation_date": "",
+  "consideration_amount": "",
+  "old_reg_no": "",
+  "seller_details": [
+    {
+      "name": "",
+      "relation_name": "",
+      "address": ""
+    }
+  ],
+  "buyer_details": [
+    {
+      "name": "",
+      "relation_name": "",
+      "address": ""
+    }
+  ],
+  "property_details": [
+    {
+      "village": "",
+      "khata": "",
+      "plot": "",
+      "area": ""
+    }
+  ]
+}
